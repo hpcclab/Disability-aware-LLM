@@ -14,7 +14,7 @@ A System that is capable of giving audio outputs to guide the user. There is a m
 1. **Clone repository**
 ```bash
 git clone https://github.com/hpcclab/Disability-aware-LLM.git
-cd multimodal-llm
+cd disability-aware-llm
 ```
 2. **Run the code**
 Run the code in T4 GPU Hardware Accelerator or Higher GPU versions. Used google collab in this project.
