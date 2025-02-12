@@ -4,3 +4,30 @@ define flow self check input
   if not $allowed
     bot refuse to respond
     stop
+
+define subflow self check output
+  $allowed = execute self_check_output
+
+  if not $allowed
+    bot refuse to respond
+    stop
+
+
+define bot inform cannot about blind
+  "I'm sorry, I can't respond to that."
+
+
+define subflow check blocked terms
+  $is_blocked = execute check_blocked_terms
+
+
+  if $is_blocked
+    bot inform cannot about blind
+    stop
+
+define subflow check user blocked
+  $is_user_blocked = execute check_blocked_terms_user
+
+  if $is_user_blocked
+    bot inform cannot about blind
+    stop
