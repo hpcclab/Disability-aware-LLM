@@ -7,7 +7,7 @@ async def check_blocked_terms(context: Optional[dict] = None):
     bot_response = context.get("bot_message")
     user_question=context.get("user_input")
     # A quick hard-coded list of offensive terms. You can also read this from a file.
-    offensive_terms = ["look", "see", "blind", "Can you see"]
+    offensive_terms = [""]
 
     for term in offensive_terms:
         if term in bot_response.lower():
@@ -20,7 +20,7 @@ async def check_blocked_terms_user(context: Optional[dict] = None):
     bot_response = context.get("bot_message")
     user_question=context.get("user_input")
     # A quick hard-coded list of offensive terms. You can also read this from a file.
-    offensive_terms = ["look", "see", "blind", "Can you see"]
+    offensive_terms = [""]
     if user_question:
         for term in offensive_terms:
             if term in user_question.lower():

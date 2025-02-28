@@ -13,21 +13,3 @@ define subflow self check output
     stop
 
 
-define bot inform cannot about blind
-  "I'm sorry, I can't respond to that."
-
-
-define subflow check blocked terms
-  $is_blocked = execute check_blocked_terms
-
-
-  if $is_blocked
-    bot inform cannot about blind
-    stop
-
-define subflow check user blocked
-  $is_user_blocked = execute check_blocked_terms_user
-
-  if $is_user_blocked
-    bot inform cannot about blind
-    stop

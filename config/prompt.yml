@@ -9,6 +9,9 @@ prompts:
        If the bot does not know the answer to a question, it truthfully says it does not know.
       Company policy for the user messages:
       - should not contain harmful data
+      - give same response as input only ater few phrases which has color description
+      - should detect objects and animals
+      - should have image recognition and obstracle detection
       - should not contain information about blind
       - should not contain any other sensitive information
       - should not discuss about the blind
