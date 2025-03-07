@@ -43,7 +43,7 @@
 
 # *******************
 
-
+# '''remove this comment too
 
 import whisper
 import gradio as gr
@@ -73,11 +73,15 @@ model_guard = AutoModelForCausalLM.from_pretrained(
 )
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
+# '''
 # **************
 
 
 
 # ***********SAFE GUARD ****
+
+# ''' Remove this comment
+'''
 input='What the person is doing?'
 conversation = [
     {
@@ -126,8 +130,70 @@ else:
     final_res="The question is not appropirate to answer"
     print(final_res)
 
+    
+'''
+# Integration with API call
+
+from openai import OpenAI
+
+# Configure the client with custom base URL and API key
+client = OpenAI(
+    base_url="https://api.thehive.ai/api/v3/",  # Hive AI's endpoint
+    api_key="HwDF5vDdbekdQbWsjcrsAXfsZo53N2v7"  # Replace with your API key
+)
+
+def get_completion(prompt, model = "meta-llama/llama-3.2-11b-vision-instruct"):
+  response = client.chat.completions.create(
+    model=model,
+    messages=[
+      {
+        "role": "user",
+        "content": [
+          {"type": "text", "text": prompt},
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": "https://d24edro6ichpbm.thehive.ai/example-images/vlm-example-image.jpeg"
+            }
+          }
+        ]
+      }
+    ],
+    temperature=0.7,
+    max_tokens=1000
+  )
+
+  # Extract the response content
+  
+  return response.choices[0].message.content
+
+final_res=get_completion("What's in this image?")
 
 import pyttsx3 
+
+from nemoguardrails import LLMRails, RailsConfig
+import nest_asyncio
+import os
+NVIDIA_API_KEY='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'
+nest_asyncio.apply()
+
+os.environ["NVIDIA_API_KEY"]="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"
+
+# Load the corrected YAML configuration
+config = RailsConfig.from_path("./config")
+
+rails = LLMRails(config)
+def nemo(text):
+  # print(text)
+  completion = rails.generate(
+      messages=[{"role": "user", "content": text}],)
+  
+  print(completion["content"])
+  return completion["content"]
+
+# print(completion["content"])
+nemo_final=nemo(final_res)
+
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
@@ -138,8 +204,11 @@ engine.setProperty('voice', voices[19].id)
 engine.setProperty('volume', 1.0)
 
 # Adjust speaking rate
-engine.setProperty('rate', 150)
+engine.setProperty('rate', 180)
 # Dictionary to store object counts
 
-engine.say(final_res)
+engine.say(nemo_final)
 engine.runAndWait()
+
+
+
