@@ -1,0 +1,7 @@
+pyttsx3
+nemoguardrails
+langchain-nvidia-ai-endpoints
+gTTS
+gradio
+nltk
+SpeechRecognition
