@@ -1,2 +1,4 @@
 .DS_Store
 venv/
+dataset/test_1000
+test_1000.json
