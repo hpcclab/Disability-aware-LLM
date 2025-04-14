@@ -1,97 +1,51 @@
-
-
-# code for interacting with llava 7b 
-# **************
-
-
-# res = ollama.chat(
-# 	model="llava:7b",
-# 	messages=[
-# 		{
-# 			'role': 'user',
-# 			'content': 'Describe this image:',
-# 			'images': ['image.jpg']
-# 		}
-# 	]
-# )
-
-# print(res['message']['content'])
-# **************
-
-
-# *******Tried downloading the llava - which actually occupies nearly 16GB. ******
-
-# from huggingface_hub import snapshot_download
-
-# model_id = "llava-hf/llava-1.5-7b-hf"
-
-# # Download and store the model locally
-# local_model_path = snapshot_download(model_id)
-
-# print(f"Model is downloaded and cached at: {local_model_path}")
-
-# *******************
-
-# '''remove this comment too
-
-import whisper
-import gradio as gr
-import time
-import warnings
+import socket
 import os
-from gtts import gTTS
-from PIL import Image
-import nltk
-from nltk import sent_tokenize
-warnings.filterwarnings("ignore")
+import warnings
+import time
 import numpy as np
 import re
-from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
+import pyttsx3
+import nest_asyncio
+import nltk
+from nltk import sent_tokenize
+from transformers import AutoModelForCausalLM, AutoTokenizer
 from huggingface_hub import snapshot_download
 import ollama
+from gtts import gTTS
+from PIL import Image
+import whisper
+import gradio as gr
+from nemoguardrails import LLMRails, RailsConfig
 
-model_id = "meta-llama/Llama-Guard-3-1B"
-# ******** Code that helps to download the LLama Guard ******
+warnings.filterwarnings("ignore")
+nltk.download("punkt")
 
+# -------------------------
+# Constants
+EDGE_HOSTNAME = "edge-device-01"  # Replace this with your actual edge device hostname
+MODEL_ID = "meta-llama/Llama-Guard-3-1B"
+LOCAL_MODEL_PATH = snapshot_download(MODEL_ID)
+os.environ["NVIDIA_API_KEY"] = "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"
+nest_asyncio.apply()
 
+# Load Guard Model
 model_guard = AutoModelForCausalLM.from_pretrained(
-    model_id,
-    torch_dtype=torch.bfloat16,
+    LOCAL_MODEL_PATH,
+    torch_dtype="auto",
     device_map="auto",
 )
 
-local_model_path = snapshot_download(model_id)
-print(f"Model downloaded to: {local_model_path}")
-# ***************
-local_model_path='/Users/bhanu/.cache/huggingface/hub/models--meta-llama--Llama-Guard-3-1B/snapshots/acf7aafa60f0410f8f42b1fa35e077d705892029'
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 
-model_guard = AutoModelForCausalLM.from_pretrained(
-    local_model_path,
-    torch_dtype="auto",  # Use appropriate dtype
-    device_map="auto",
-)
-tokenizer = AutoTokenizer.from_pretrained(model_id)
+# -------------------------
+# Run the safety check
+input_text = "What the person is doing?"
 
-# '''
-# **************
-
-
-
-# ***********SAFE GUARD ****
-
-# ''' Remove this comment
-
-input='What the person is doing?'
 conversation = [
     {
         "role": "user",
-        "content": [
-            {
-                "type": "text",
-                "text": input
-            },
-        ],
+        "content": [{"type": "text", "text": input_text}],
     }
 ]
 
@@ -100,115 +54,60 @@ input_ids = tokenizer.apply_chat_template(
 ).to(model_guard.device)
 
 prompt_len = input_ids.shape[1]
+
 output = model_guard.generate(
     input_ids,
     max_new_tokens=100,
     temperature=1,
     pad_token_id=0,
 )
+
 generated_tokens = output[:, prompt_len:]
+result = tokenizer.decode(generated_tokens[0])
+print(f"Guard Result: {result}")
 
-result=tokenizer.decode(generated_tokens[0])
-print(result)
-
-if result.strip()=="safe<|eot_id|>":
-
+# -------------------------
+# If safe and on edge device, run LLaVA
+if result.strip() == "safe<|eot_id|>" and socket.gethostname() == EDGE_HOSTNAME:
+    print("Running on edge device. Invoking LLaVA...")
     res = ollama.chat(
         model="llava:7b",
         messages=[
             {
                 'role': 'user',
-                'content': input,
+                'content': input_text,
                 'images': ['person.jpeg']
             }
         ]
     )
-
-    final_res=res['message']['content']
-    print(final_res)
+    final_res = res['message']['content']
 else:
-    final_res="The question is not appropirate to answer"
-    print(final_res)
+    final_res = "The question is not appropriate or not running on edge device."
+print(f"LLaVA Result: {final_res}")
 
-    
-
-# Integration with API call
-
-# from openai import OpenAI
-
-# # Configure the client with custom base URL and API key
-# client = OpenAI(
-#     base_url="https://api.thehive.ai/api/v3/",  # Hive AI's endpoint
-#     api_key="HwDF5vDdbekdQbWsjcrsAXfsZo53N2v7"  # Replace with your API key
-# )
-
-# def get_completion(prompt, model = "meta-llama/llama-3.2-11b-vision-instruct"):
-#   response = client.chat.completions.create(
-#     model=model,
-#     messages=[
-#       {
-#         "role": "user",
-#         "content": [
-#           {"type": "text", "text": prompt},
-#           {
-#             "type": "image_url",
-#             "image_url": {
-#               "url": "https://d24edro6ichpbm.thehive.ai/example-images/vlm-example-image.jpeg"
-#             }
-#           }
-#         ]
-#       }
-#     ],
-#     temperature=0.7,
-#     max_tokens=1000
-#   )
-
-#   # Extract the response content
-  
-#   return response.choices[0].message.content
-
-# final_res=get_completion("What's in this image?")
-
-import pyttsx3 
-
-from nemoguardrails import LLMRails, RailsConfig
-import nest_asyncio
-import os
-NVIDIA_API_KEY='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'
-nest_asyncio.apply()
-
-os.environ["NVIDIA_API_KEY"]="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"
-
-# Load the corrected YAML configuration
+# -------------------------
+# Run NeMo Guardrails
 config = RailsConfig.from_path("./config")
-
 rails = LLMRails(config)
+
 def nemo(text):
-  # print(text)
-  completion = rails.generate(
-      messages=[{"role": "user", "content": text}],)
-  
-  print(completion["content"])
-  return completion["content"]
+    completion = rails.generate(
+        messages=[{"role": "user", "content": text}],
+    )
+    print(f"NeMo Output: {completion['content']}")
+    return completion["content"]
 
-# print(completion["content"])
-nemo_final=nemo(final_res)
+nemo_final = nemo(final_res)
 
-
+# -------------------------
+# Text-to-Speech
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
-# Set a specific voice if needed (e.g., first available voice)
-engine.setProperty('voice', voices[19].id)
+if len(voices) > 19:
+    engine.setProperty('voice', voices[19].id)
 
-# Adjust volume
 engine.setProperty('volume', 1.0)
-
-# Adjust speaking rate
 engine.setProperty('rate', 180)
-# Dictionary to store object counts
-
 engine.say(nemo_final)
 engine.runAndWait()
-
-
 
