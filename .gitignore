@@ -2,3 +2,4 @@
 venv/
 dataset/test_1000
 test_1000.json
+dataset/test/
