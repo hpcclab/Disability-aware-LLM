@@ -1,5 +1,6 @@
 '''
 This code works across edge and cloud.
+User identification doesn't include here.
 '''
 import whisper
 import gradio as gr
