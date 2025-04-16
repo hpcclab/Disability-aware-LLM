@@ -1,5 +1,6 @@
 '''
 This code works only edge except nemoguardrails.
+User identification doesn't include here.
 '''
 import whisper
 import gradio as gr
