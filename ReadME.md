@@ -1,4 +1,4 @@
-# Multimodal Large Language Model (LLM)
+# Audo-Sight: Enabling Ambient Interaction for Blind and Visually Impaired Individuals
 
 A System that is capable of giving audio outputs to guide the user. There is a multimodal language model that processes and interprets both textual and pictorial information. Python and Hugging Face Transformers have been used for its development. Nemoguard rails and LLama Safe Guard modules have been used for safeguarding LLM's output.
 
