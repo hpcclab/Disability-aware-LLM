@@ -1,0 +1,5007 @@
+[
+  {
+    "image": "VizWiz_test_00000000.jpg",
+    "question": "What is this? And what color is it?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000001.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000002.jpg",
+    "question": "Has this oven gotten up to four hundred fifty degrees Fahrenheit yet?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000003.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000004.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000005.jpg",
+    "question": "What kind of key is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000006.jpg",
+    "question": "What does it say on here?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000007.jpg",
+    "question": "What is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000008.jpg",
+    "question": "What is this? What is this? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000009.jpg",
+    "question": "Do these beans look like black beans or pinto beans?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000010.jpg",
+    "question": "Whats the date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000011.jpg",
+    "question": "what is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000012.jpg",
+    "question": "What is this game?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000013.jpg",
+    "question": "This piece of paper.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000014.jpg",
+    "question": "What brand is this vacuum?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000015.jpg",
+    "question": "What does the photo on the wall show?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000016.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000017.jpg",
+    "question": "How many ounces in this container? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000018.jpg",
+    "question": "Can you tell me what this food is in this bag? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000019.jpg",
+    "question": "What color are these two connectors?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000020.jpg",
+    "question": "What book is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000021.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000022.jpg",
+    "question": "What do you think of this silver belt buckle? What do you think of this silver belt buckle?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000023.jpg",
+    "question": "What kind of a bottle is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000024.jpg",
+    "question": "What does this box say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000025.jpg",
+    "question": "Can you tell me what type of pill these are please. If its tylenol, advil, or ibprofen, something like that.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000026.jpg",
+    "question": "Is this title?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000027.jpg",
+    "question": "What, what is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000028.jpg",
+    "question": "Android device, phone, that works for the blind?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000029.jpg",
+    "question": "What's the expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000030.jpg",
+    "question": "Is this picture? Is this picture of my computer screen show that it's booting up or not?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000031.jpg",
+    "question": "Can you tell me what color this modem is please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000032.jpg",
+    "question": "what book is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000033.jpg",
+    "question": "What does an eagle say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000034.jpg",
+    "question": "Which cereal is this?  Question mark.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000035.jpg",
+    "question": "What is this shape?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000036.jpg",
+    "question": "How long and what temperature do I bake this pizza for?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000037.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000038.jpg",
+    "question": "What's the name of that can please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000039.jpg",
+    "question": "One must try for baking instructions before I play a piece of roulette. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000040.jpg",
+    "question": "What room is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000041.jpg",
+    "question": "I seem to be going in circles.  WHat's the error message now? Thanks.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000042.jpg",
+    "question": "What kind of coffee is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000043.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000044.jpg",
+    "question": "What does this tshirt say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000045.jpg",
+    "question": "What is this that is hanging on the wall? I would like to know and please give me a detailed description. Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000046.jpg",
+    "question": "Can you tell me whats in this can please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000047.jpg",
+    "question": "What type of pills are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000048.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000049.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000050.jpg",
+    "question": "How does this picture look of my tree, question mark?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000051.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000052.jpg",
+    "question": "Is the picture working on this tv?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000053.jpg",
+    "question": "What is this?  And is it hot?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000054.jpg",
+    "question": "Can you read the steps and the time for this exerciser?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000055.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000056.jpg",
+    "question": "What color are my shoes?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000057.jpg",
+    "question": "What is in this cup? What is in this cup?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000058.jpg",
+    "question": "What is this object?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000059.jpg",
+    "question": "Where was this picture taken?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000060.jpg",
+    "question": "This is an ongoing problem for me, so please be patient. There's a washing machine in the picture, it has a dial which can be set to normal or various other settings. I need to find out which setting it's set to, it's the ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000061.jpg",
+    "question": "what kind of wine is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000062.jpg",
+    "question": "Could you please tell me what kind of Keurig coffee this box is?  ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000063.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000064.jpg",
+    "question": "what color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000065.jpg",
+    "question": "What color is this container?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000066.jpg",
+    "question": "what is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000067.jpg",
+    "question": "Wondering what it is, whole milk?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000068.jpg",
+    "question": "what does this photo say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000069.jpg",
+    "question": "What is in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000070.jpg",
+    "question": "What kind of TV dinner is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000071.jpg",
+    "question": "What kind of pills are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000072.jpg",
+    "question": "What type of beer is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000073.jpg",
+    "question": "How much time is left on the microwave?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000074.jpg",
+    "question": "What kind of coffee?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000075.jpg",
+    "question": "What is this device?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000076.jpg",
+    "question": "What's the item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000077.jpg",
+    "question": "Can you tell me what flavor this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000078.jpg",
+    "question": "What kind of coffee is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000079.jpg",
+    "question": "What is this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000080.jpg",
+    "question": "Is this a shredder",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000081.jpg",
+    "question": "What are the instructions for taking this Vitamic C?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000082.jpg",
+    "question": "What kind of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000083.jpg",
+    "question": "The expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000084.jpg",
+    "question": "What page number is visible thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000085.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000086.jpg",
+    "question": "What is this a bottle of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000087.jpg",
+    "question": "Does this say readers brand of beef dinner?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000088.jpg",
+    "question": "Is that caffeinated or decaffeinated coffee?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000089.jpg",
+    "question": "What color is this skirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000090.jpg",
+    "question": "Is there a mess on this floor?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000091.jpg",
+    "question": "What is that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000092.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000093.jpg",
+    "question": "What is this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000094.jpg",
+    "question": "Can you tell me if you see my keys anywhere?  Thanks.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000095.jpg",
+    "question": "Can you tell from my picture which beard this is? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000096.jpg",
+    "question": "What is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000097.jpg",
+    "question": "What is in this photo?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000098.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000099.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000100.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000101.jpg",
+    "question": "What's on the computer screen?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000102.jpg",
+    "question": "What flavor of dinner is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000103.jpg",
+    "question": "can you read what's on the screen?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000104.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000105.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000106.jpg",
+    "question": "What is printed on this glass?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000107.jpg",
+    "question": "What flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000108.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000109.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000110.jpg",
+    "question": "What does this flip flop look like?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000111.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000112.jpg",
+    "question": "What is this product and how to use it. Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000113.jpg",
+    "question": "What is in this can? Thank you in advance.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000114.jpg",
+    "question": "what is this thermostat set on?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000115.jpg",
+    "question": "What is this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000116.jpg",
+    "question": "What kind of perfume is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000117.jpg",
+    "question": "What does this say? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000118.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000119.jpg",
+    "question": "What flavor of crust is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000120.jpg",
+    "question": "Can you tell me what that label is, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000121.jpg",
+    "question": "Can you read any of these numbers to me?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000122.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000123.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000124.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000125.jpg",
+    "question": "What about the scenery?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000126.jpg",
+    "question": "What is the flavor of this protein powder?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000127.jpg",
+    "question": "What is that bill",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000128.jpg",
+    "question": "What is this a can of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000129.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000130.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000131.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000132.jpg",
+    "question": "What does this shirt say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000133.jpg",
+    "question": "Hello, can you tell what the package is now? Are there any other applications that I can use on the Iphone to scan documents and stuff with or money?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000134.jpg",
+    "question": "Read the name on the box. ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000135.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000136.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000137.jpg",
+    "question": "How far do I have to be away with the camera for this to be clear?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000138.jpg",
+    "question": "For how long do I cook this in the microwave?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000139.jpg",
+    "question": "Can you see what kind of canned food this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000140.jpg",
+    "question": "What is this color?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000141.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000142.jpg",
+    "question": "What is the name of the CD?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000143.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000144.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000145.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000146.jpg",
+    "question": "What's this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000147.jpg",
+    "question": "What is this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000148.jpg",
+    "question": "What is this item? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000149.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000150.jpg",
+    "question": "Which brand is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000151.jpg",
+    "question": "What color is this shirt? What color is this shirt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000152.jpg",
+    "question": "Is there something on my way? Is there something that is obstructing the walk on my way?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000153.jpg",
+    "question": "What is the title of this book?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000154.jpg",
+    "question": "What kind of wine is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000155.jpg",
+    "question": "What are this cans?  ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000156.jpg",
+    "question": "What does it say on the computer screen?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000157.jpg",
+    "question": "Can you tell the color of these shorts?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000158.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000159.jpg",
+    "question": "What color are these pants?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000160.jpg",
+    "question": "Can you tell me what this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000161.jpg",
+    "question": "Please tell me as much as you can about what these shorts look like. Are they solid? Are they plaid? What colors are in them?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000162.jpg",
+    "question": "Which one is the almond butter.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000163.jpg",
+    "question": "What is in this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000164.jpg",
+    "question": "What is this vegetable? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000165.jpg",
+    "question": "Tell me what this meat is please.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000166.jpg",
+    "question": "What's in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000167.jpg",
+    "question": "What type of condom is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000168.jpg",
+    "question": "What color is that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000169.jpg",
+    "question": "What make and flavor of coffee is this please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000170.jpg",
+    "question": "Can anybody tell what is in the picture I took?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000171.jpg",
+    "question": "What is in this spray bottle?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000172.jpg",
+    "question": "Can you tell what the name of this product is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000173.jpg",
+    "question": "What size is this sweater?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000174.jpg",
+    "question": "What is the expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000175.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000176.jpg",
+    "question": "What's on the screen?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000177.jpg",
+    "question": "Hi, what is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000178.jpg",
+    "question": "What color is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000179.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000180.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000181.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000182.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000183.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000184.jpg",
+    "question": "Is the light on? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000185.jpg",
+    "question": "What model is this laptop?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000186.jpg",
+    "question": "What product is this? What is this frozen food item?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000187.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000188.jpg",
+    "question": "What color is this please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000189.jpg",
+    "question": "What is this? They have...",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000190.jpg",
+    "question": "What's in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000191.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000192.jpg",
+    "question": "What is the name of this bag? Thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000193.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000194.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000195.jpg",
+    "question": "How many calories are in Ensure?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000196.jpg",
+    "question": "that is stew what is in it",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000197.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000198.jpg",
+    "question": "Hi there. Can you please tell me what flavor this is? thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000199.jpg",
+    "question": "What are the contents of this can?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000200.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000201.jpg",
+    "question": "What is written on this shirt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000202.jpg",
+    "question": "What color is this sweater? Thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000203.jpg",
+    "question": "What is the title of this book? Or the picture on the front of it",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000204.jpg",
+    "question": "What kind of wine is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000205.jpg",
+    "question": "What color is this tie?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000206.jpg",
+    "question": "Nothing happened. Just a minute. What is that?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000207.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000208.jpg",
+    "question": "What does this logo go to?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000209.jpg",
+    "question": "What flavor of soda is that please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000210.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000211.jpg",
+    "question": "Can you identify this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000212.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000213.jpg",
+    "question": "What is on the screen?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000214.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000215.jpg",
+    "question": "Talk a little bit louder.  Hey Emma.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000216.jpg",
+    "question": "What flavor of coffee is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000217.jpg",
+    "question": "What does it say here in this box?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000218.jpg",
+    "question": "What is the name of the object in the picture?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000219.jpg",
+    "question": "Agenda item number two.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000220.jpg",
+    "question": "What's in this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000221.jpg",
+    "question": "Which movie is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000222.jpg",
+    "question": "What flavor please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000223.jpg",
+    "question": "What color was that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000224.jpg",
+    "question": "Can you please tell what is contained in this box? Which type of bar are they? Thank You. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000225.jpg",
+    "question": "Can you tell me what this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000226.jpg",
+    "question": "Is this doormat right side up or upside down?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000227.jpg",
+    "question": "What is in this container, is it half and half?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000228.jpg",
+    "question": "What color is this cartridge?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000229.jpg",
+    "question": "What is in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000230.jpg",
+    "question": "how many ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000231.jpg",
+    "question": "Hi again, see now I click on the front of the passport. I have to find this barcode because of technical support issues.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000232.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000233.jpg",
+    "question": "WHAT CAN, ER, WHAT'S IN THIS CAN?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000234.jpg",
+    "question": "hi could you please tell me what is in this box. Thank you very much. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000235.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000236.jpg",
+    "question": "What is this a box of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000237.jpg",
+    "question": "What's the color for this computer?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000238.jpg",
+    "question": "what is this dish",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000239.jpg",
+    "question": "Can someone recognize some kind of label on this network adapter?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000240.jpg",
+    "question": "It's duller.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000241.jpg",
+    "question": "Which building is that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000242.jpg",
+    "question": "Is this a Taco Bell cup?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000243.jpg",
+    "question": "What pattern is this blanket?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000244.jpg",
+    "question": "What is that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000245.jpg",
+    "question": "How many countries are in this world?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000246.jpg",
+    "question": "What is this cord?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000247.jpg",
+    "question": "What kind of fruit this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000248.jpg",
+    "question": "What product is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000249.jpg",
+    "question": "Can you tell what this button is now that my finger maybe isn't covering it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000250.jpg",
+    "question": "What is this spice?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000251.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000252.jpg",
+    "question": "Okay, I rotated the bottle, I'm hoping that someone can see what this possibly could be.  Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000253.jpg",
+    "question": "What's on the CD?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000254.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000255.jpg",
+    "question": "What do you see?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000256.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000257.jpg",
+    "question": "What color is it?  Oh, you want web workers and iq engine. So go down.  Ok now go up.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000258.jpg",
+    "question": "What kind of lantern is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000259.jpg",
+    "question": "What kind of tea is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000260.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000261.jpg",
+    "question": "What color is this sweater?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000262.jpg",
+    "question": "What kind of bug is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000263.jpg",
+    "question": "Would you please read these buttons from left to right on the scanner?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000264.jpg",
+    "question": "Here's a better picture. We are in Maryland. I'm not sure that it's the lemon tree, though it could be.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000265.jpg",
+    "question": "Is this chili?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000266.jpg",
+    "question": "Can you tell me what's on the screen please. ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000267.jpg",
+    "question": "Can you please tell me what classroom this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000268.jpg",
+    "question": "What card is this and is this right side up or upside down? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000269.jpg",
+    "question": "Is this dry clean only",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000270.jpg",
+    "question": "Is this cinnamon juju's or regular juju's?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000271.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000272.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000273.jpg",
+    "question": "What brand socks does this say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000274.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000275.jpg",
+    "question": "What kind of product is this? What kind of simmer sauce is this?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000276.jpg",
+    "question": "What color is this blouse?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000277.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000278.jpg",
+    "question": "What is the expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000279.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000280.jpg",
+    "question": "What is the color of my shirt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000281.jpg",
+    "question": "What does this piece of paper say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000282.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000283.jpg",
+    "question": "What flavor biscuits are these?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000284.jpg",
+    "question": "Can you tell what is in the can that I'm holding?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000285.jpg",
+    "question": "I'm looking to see whether this C.D. is the third of a collection of fifteen. Can you tell me that? Thank you very much. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000286.jpg",
+    "question": "Does this look like Excedrin?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000287.jpg",
+    "question": "What does this bottle say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000288.jpg",
+    "question": "Can you see if this is for acid loving plants or for roses? Thank you",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000289.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000290.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000291.jpg",
+    "question": "How are you doing now not sure you'll be able to tell not sure about the light in this room here I am blind but can you tell me what kind of chips these are?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000292.jpg",
+    "question": "What is the name of this box?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000293.jpg",
+    "question": "What bottle is this please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000294.jpg",
+    "question": "Which number do I need to dial for emergencies? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000295.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000296.jpg",
+    "question": "what is this bottle please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000297.jpg",
+    "question": "What are the cooking directions on this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000298.jpg",
+    "question": "What size are these?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000299.jpg",
+    "question": "What is the vitamin type, brand and dosage?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000300.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000301.jpg",
+    "question": "What is on this page?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000302.jpg",
+    "question": "What type of broth is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000303.jpg",
+    "question": "What breed and what color is this dog?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000304.jpg",
+    "question": "Does this cap say anything? Does this cap have any label on it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000305.jpg",
+    "question": "What is this a picture of? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000306.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000307.jpg",
+    "question": "What are the instructions? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000308.jpg",
+    "question": "Where is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000309.jpg",
+    "question": "Could you please tell me what this picture is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000310.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000311.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000312.jpg",
+    "question": "What is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000313.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000314.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000315.jpg",
+    "question": "What is this?  What is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000316.jpg",
+    "question": "Please tell me the labels on the square of connectors in this order: top left, top right, bottom left, and bottom right. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000317.jpg",
+    "question": "What is the brand name?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000318.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000319.jpg",
+    "question": "Are these regular chips or salt and vinegar chips? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000320.jpg",
+    "question": "what make is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000321.jpg",
+    "question": "What are the price tags in this photo and what do they say?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000322.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000323.jpg",
+    "question": "What is in this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000324.jpg",
+    "question": "What does the label on this say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000325.jpg",
+    "question": "Is there a picture on this tv screen?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000326.jpg",
+    "question": "What is the title of this book?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000327.jpg",
+    "question": "Can you tell me if this is an apple or strawberry shampoo please? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000328.jpg",
+    "question": "what is the box in front of me",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000329.jpg",
+    "question": "What is the name of this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000330.jpg",
+    "question": "Can you tell what's in the box now? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000331.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000332.jpg",
+    "question": "When does this expire?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000333.jpg",
+    "question": "What color is?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000334.jpg",
+    "question": "Who makes this Victoria Secret bra?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000335.jpg",
+    "question": "are you able to tell if this is shampoo or conditioner?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000336.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000337.jpg",
+    "question": "What pills are in this bottle? What kind of pills?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000338.jpg",
+    "question": "What is in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000339.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000340.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000341.jpg",
+    "question": "How many containers are over here?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000342.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000343.jpg",
+    "question": "What is the price of that product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000344.jpg",
+    "question": "What is this type of paraflu?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000345.jpg",
+    "question": "What kind of kool-aid is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000346.jpg",
+    "question": "What is this package?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000347.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000348.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000349.jpg",
+    "question": "What does this item look like, and what colors are in it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000350.jpg",
+    "question": "Whats in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000351.jpg",
+    "question": "What color?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000352.jpg",
+    "question": "This is the display of a treadmill. Can you tell me the distance in miles please?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000353.jpg",
+    "question": "Do you guys see what the writing on the top of this says?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000354.jpg",
+    "question": "Does this floor look clean?  ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000355.jpg",
+    "question": "Okay, here's a test, and let's see.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000356.jpg",
+    "question": "Can you say what's in this packet?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000357.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000358.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000359.jpg",
+    "question": "What kind of exercise machine is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000360.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000361.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000362.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000363.jpg",
+    "question": "What kind of cigarettes are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000364.jpg",
+    "question": "What is the large can and what is the smaller can? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000365.jpg",
+    "question": "What kind of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000366.jpg",
+    "question": "What color is this bag?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000367.jpg",
+    "question": "What is this item? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000368.jpg",
+    "question": "What kind of weed is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000369.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000370.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000371.jpg",
+    "question": "What do you see?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000372.jpg",
+    "question": "what flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000373.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000374.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000375.jpg",
+    "question": "What kind of plant is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000376.jpg",
+    "question": "What is this photo? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000377.jpg",
+    "question": "This is right.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000378.jpg",
+    "question": "How many calories has this soft drink?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000379.jpg",
+    "question": "What flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000380.jpg",
+    "question": "It's red.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000381.jpg",
+    "question": "What product is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000382.jpg",
+    "question": "Can you tell me what these buttons say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000383.jpg",
+    "question": "The sky look like?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000384.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000385.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000386.jpg",
+    "question": "whats this capture",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000387.jpg",
+    "question": "Can you please tell me what is on the screen?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000388.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000389.jpg",
+    "question": "What kind of food is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000390.jpg",
+    "question": "What flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000391.jpg",
+    "question": "Test, test, test.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000392.jpg",
+    "question": "Can you please tell me what's on this label? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000393.jpg",
+    "question": "What is in this container?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000394.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000395.jpg",
+    "question": "What does it say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000396.jpg",
+    "question": "what kind of wine is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000397.jpg",
+    "question": "What is this?  What is this? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000398.jpg",
+    "question": "What kind of soft drink is in my hand?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000399.jpg",
+    "question": "please me what the cap chess says? thank you",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000400.jpg",
+    "question": "What does this label say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000401.jpg",
+    "question": "who is does writing say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000402.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000403.jpg",
+    "question": "What kind of a meal is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000404.jpg",
+    "question": "Can you see what the driver's number is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000405.jpg",
+    "question": "What's this picture about?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000406.jpg",
+    "question": "What kind of flower is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000407.jpg",
+    "question": "Are you able to tell what flavor this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000408.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000409.jpg",
+    "question": "Where is the dog? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000410.jpg",
+    "question": "Hello there, I'm just about to put a picture up above my bed but I wonder if you might be able to tell me if it's the right way up.  I know it sounds a bit silly but I'm sure you've heard sillier.  If it's the right way up or upside down.  I have the screws in.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000411.jpg",
+    "question": "What veniburg old letters in picture?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000412.jpg",
+    "question": "What time is on my cellphone?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000413.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000414.jpg",
+    "question": "Could you read the text on this label please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000415.jpg",
+    "question": "What does this say? What does it look like?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000416.jpg",
+    "question": "What kind of soda is in that can?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000417.jpg",
+    "question": "What kind of dog is he?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000418.jpg",
+    "question": "What does that say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000419.jpg",
+    "question": "What candy is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000420.jpg",
+    "question": "What color is this blouse?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000421.jpg",
+    "question": "Doesn't say what flavor this is.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000422.jpg",
+    "question": "What is this symbol?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000423.jpg",
+    "question": "What's written on the red button?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000424.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000425.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000426.jpg",
+    "question": "Can you tell me what this can is please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000427.jpg",
+    "question": "Record, what is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000428.jpg",
+    "question": "What food is in this bag",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000429.jpg",
+    "question": "Is this a cup?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000430.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000431.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000432.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000433.jpg",
+    "question": "What type of burritos are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000434.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000435.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000436.jpg",
+    "question": "Is this a gift card for?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000437.jpg",
+    "question": "I was wondering what percent of the sky is black from this Northwestern shot.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000438.jpg",
+    "question": "These jeans should either be pink metallic or gold metallic. Which one are they?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000439.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000440.jpg",
+    "question": "What kind of cologne is this please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000441.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000442.jpg",
+    "question": "What color are these shorts?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000443.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000444.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000445.jpg",
+    "question": "What is the expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000446.jpg",
+    "question": "i want to know the name of this cologne",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000447.jpg",
+    "question": "What color is these beats?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000448.jpg",
+    "question": "Can you tell me what's sauce this is? Is this steak sauce or I think it's pork katsu sauce? I'm not sure.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000449.jpg",
+    "question": "What color is this and is it light or dark?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000450.jpg",
+    "question": "Is there anything on the screen of my iPad?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000451.jpg",
+    "question": "What is the item number?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000452.jpg",
+    "question": "What's in this box please? Thank you. ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000453.jpg",
+    "question": "Hello, I'm Steven. Could you kindly read the label for me please?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000454.jpg",
+    "question": "What's the color of this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000455.jpg",
+    "question": "What do I look like?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000456.jpg",
+    "question": "Is this my blue folder?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000457.jpg",
+    "question": "Yes, I would just like to know what the label is on this medication bottle and any dosage information.  Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000458.jpg",
+    "question": "What about the signery?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000459.jpg",
+    "question": "I can't find my cup. Where is my cup?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000460.jpg",
+    "question": "How much does this cost?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000461.jpg",
+    "question": "What kind of pop is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000462.jpg",
+    "question": "What kind of cartoon character is on this shirt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000463.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000464.jpg",
+    "question": "What does it say? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000465.jpg",
+    "question": "To the web worker that said a cream tube. I know what it is. I don't know what kind of cream And, that's what I said, identify if you were able. If you can't see a logo or instructions, let me know. But, telling me that it's ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000466.jpg",
+    "question": "When's the expiration date on this turkey?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000467.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000468.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000469.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000470.jpg",
+    "question": "Is it boiling yet?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000471.jpg",
+    "question": "Where is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000472.jpg",
+    "question": "Do you see a manufacturer and what the name of the collection is?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000473.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000474.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000475.jpg",
+    "question": "What is this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000476.jpg",
+    "question": "I have a question, can you tell me what time, what this is and how many buses does it have on it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000477.jpg",
+    "question": "What is this a ten of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000478.jpg",
+    "question": "When does this expire?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000479.jpg",
+    "question": "What brand is this machine?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000480.jpg",
+    "question": "DVD is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000481.jpg",
+    "question": "Can you please tell me what this is? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000482.jpg",
+    "question": "What's on the screen please? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000483.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000484.jpg",
+    "question": "What is that a picture of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000485.jpg",
+    "question": "There's a disagreement about whether my nail polish is more pink or more orange. It's supposed to be a coral. I need to know what color of clothes I would not wear with it.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000486.jpg",
+    "question": "Hi there, can you please tell me what the temperature ranges are, from left to right on the dial at the front of this slow cooker? ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000487.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000488.jpg",
+    "question": "Can you tell what type of tea this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000489.jpg",
+    "question": "What color shirt is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000490.jpg",
+    "question": "What did my camera take a picture of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000491.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000492.jpg",
+    "question": "What flavor is this soda?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000493.jpg",
+    "question": "What kind of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000494.jpg",
+    "question": "What's in this package?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000495.jpg",
+    "question": "What color is that please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000496.jpg",
+    "question": "What is the title of this CD?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000497.jpg",
+    "question": "What is in this package?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000498.jpg",
+    "question": "What is in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000499.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000500.jpg",
+    "question": "Ok I know this is Quaker and I know it's delicious but I'm curious is this the apple cinnamon or the maple brown syrup cause I'm trying to fix breakfast for guests we have over. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000501.jpg",
+    "question": "What is the ISBN number for this book.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000502.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000503.jpg",
+    "question": "Can you tell me what's on this can for what type of food it is? ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000504.jpg",
+    "question": "What's in this bottle? I know it's baby-ganic something, but I don't know which cleaner it is?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000505.jpg",
+    "question": "When does this expire? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000506.jpg",
+    "question": "What is this card?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000507.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000508.jpg",
+    "question": "where is the handle",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000509.jpg",
+    "question": "What color are my pants?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000510.jpg",
+    "question": "Can you help me identify this label, please, thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000511.jpg",
+    "question": "What kind of candy bar is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000512.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000513.jpg",
+    "question": "What does it say on this bottle?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000514.jpg",
+    "question": "What does this coupon say on it?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000515.jpg",
+    "question": "What color is this shoe?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000516.jpg",
+    "question": "What about this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000517.jpg",
+    "question": "What kid of juice is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000518.jpg",
+    "question": "Please can you tell me what this beer is? It's fullers 1845 or bsb? I'm not sure which.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000519.jpg",
+    "question": "What does this dialogue box say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000520.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000521.jpg",
+    "question": "What color is this chair? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000522.jpg",
+    "question": "What beer is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000523.jpg",
+    "question": "What is the 3 digit code?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000524.jpg",
+    "question": "What type of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000525.jpg",
+    "question": "What is the color of the wall in this picture?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000526.jpg",
+    "question": "What does this screen say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000527.jpg",
+    "question": "What is this paper?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000528.jpg",
+    "question": "Can you tell me if this thermostat is on and what temperature is it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000529.jpg",
+    "question": "What does this product say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000530.jpg",
+    "question": "What color is this shirt, and can you tell me if it's clean or not?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000531.jpg",
+    "question": "What is this thing?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000532.jpg",
+    "question": "What logo is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000533.jpg",
+    "question": "Identify this bill",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000534.jpg",
+    "question": "Describe the picture please.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000535.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000536.jpg",
+    "question": "What color are these pants and what kind are they?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000537.jpg",
+    "question": "I'm trying to find the serial number on a clothes dryer perhaps you can help thank you",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000538.jpg",
+    "question": "What do you reckon?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000539.jpg",
+    "question": "What does it say on this computer screen.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000540.jpg",
+    "question": "Display say.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000541.jpg",
+    "question": "what is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000542.jpg",
+    "question": "Tell me what the label says on this bottle. Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000543.jpg",
+    "question": "Read all instruction on the books. ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000544.jpg",
+    "question": "Can you tell me if this shows the brand name of this washer? I need to know what the brand name is. Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000545.jpg",
+    "question": "What is the expiry date on this yogurt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000546.jpg",
+    "question": "What scent is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000547.jpg",
+    "question": "What does my face look like?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000548.jpg",
+    "question": "For how long do I cook this in the microwave",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000549.jpg",
+    "question": "What is in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000550.jpg",
+    "question": "What size is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000551.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000552.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000553.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000554.jpg",
+    "question": "What should I say when somebody is asking me what kind of phone I have?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000555.jpg",
+    "question": "I hope it's better could you please tell me what's on the label now?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000556.jpg",
+    "question": "What flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000557.jpg",
+    "question": "What can is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000558.jpg",
+    "question": "What DVD is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000559.jpg",
+    "question": "What's . . . What's this money?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000560.jpg",
+    "question": "Flavor food is that please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000561.jpg",
+    "question": "...information on this label, thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000562.jpg",
+    "question": "What time is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000563.jpg",
+    "question": "What is the name of this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000564.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000565.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000566.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000567.jpg",
+    "question": "How much is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000568.jpg",
+    "question": "What CD is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000569.jpg",
+    "question": "Can you see the serial number which is 8 characters, 8 or 9 characters with letter and numbers written, printed on the back of this Dell laptop? ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000570.jpg",
+    "question": "What picture is the photo?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000571.jpg",
+    "question": "Is this coca cola light?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000572.jpg",
+    "question": "What's on the screen?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000573.jpg",
+    "question": "What is this and is it Blu-Ray?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000574.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000575.jpg",
+    "question": "What colors do you see in this item?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000576.jpg",
+    "question": "What is on this package?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000577.jpg",
+    "question": "what color are these pants?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000578.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000579.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000580.jpg",
+    "question": "What kind of dog is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000581.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000582.jpg",
+    "question": "What is this? It's Italian. Read as you can.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000583.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000584.jpg",
+    "question": "what is the title of this paper?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000585.jpg",
+    "question": "Color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000586.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000587.jpg",
+    "question": "Hello. What DVD is this, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000588.jpg",
+    "question": "What does the brand name say? what does that label say actually?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000589.jpg",
+    "question": "What credit card is this please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000590.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000591.jpg",
+    "question": "What is this box.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000592.jpg",
+    "question": "Any clouds in the sky?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000593.jpg",
+    "question": "How many minutes is left on the dryer?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000594.jpg",
+    "question": "How much are these head phones worth?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000595.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000596.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000597.jpg",
+    "question": "What brand is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000598.jpg",
+    "question": "This is the display of a treadmill. Can you tell me the distance off the top display, please?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000599.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000600.jpg",
+    "question": "How many video games are in the show?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000601.jpg",
+    "question": "Can you tell me what meal this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000602.jpg",
+    "question": "Please can you read this? I must know it.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000603.jpg",
+    "question": "What does it say?  I don't think this works.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000604.jpg",
+    "question": "If you were looking at this dial on the washer like a clock, whereabouts would it be setting, so that I could go to heavy load?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000605.jpg",
+    "question": "What flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000606.jpg",
+    "question": "What does this sign say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000607.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000608.jpg",
+    "question": "What kind of soap is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000609.jpg",
+    "question": "What does this piece of paper say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000610.jpg",
+    "question": "What flavor is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000611.jpg",
+    "question": "What do you think this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000612.jpg",
+    "question": "What does this label read?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000613.jpg",
+    "question": "can you read the words on this charger",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000614.jpg",
+    "question": "What flavors of jelly beans are in the package?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000615.jpg",
+    "question": "What is the name of this CD?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000616.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000617.jpg",
+    "question": "What is this please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000618.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000619.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000620.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000621.jpg",
+    "question": "Is there anything else in this dinner besides shredded chicken?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000622.jpg",
+    "question": "What does it say on this bottle?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000623.jpg",
+    "question": "Hi, can you tell me what this item is? Thank you so much.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000624.jpg",
+    "question": "What is the text say in this picture?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000625.jpg",
+    "question": "Can you tell me what color this shirt is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000626.jpg",
+    "question": "What is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000627.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000628.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000629.jpg",
+    "question": "Is there anything listening on the screen?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000630.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000631.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000632.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000633.jpg",
+    "question": "is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000634.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000635.jpg",
+    "question": "Is the river visible?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000636.jpg",
+    "question": "What color is that please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000637.jpg",
+    "question": "I'm trying to figure out if you can tell what the printing on this bottle says.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000638.jpg",
+    "question": "Can you please describe this box to me? Thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000639.jpg",
+    "question": "what is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000640.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000641.jpg",
+    "question": "What did I just take a picture of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000642.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000643.jpg",
+    "question": "What is this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000644.jpg",
+    "question": "What is this hiding?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000645.jpg",
+    "question": "Could you please tell me about where this doll is sitting?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000646.jpg",
+    "question": "What is the captcha code on this screenshot?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000647.jpg",
+    "question": "What brand of water is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000648.jpg",
+    "question": "What is this and what is the weight?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000649.jpg",
+    "question": "What kind of seasoning is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000650.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000651.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000652.jpg",
+    "question": "What color is the mouse?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000653.jpg",
+    "question": "What is the expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000654.jpg",
+    "question": "What is please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000655.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000656.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000657.jpg",
+    "question": "Please read the knob from left to right. Is it off, high, low or off, low, high for this crockpot?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000658.jpg",
+    "question": "what type of fruit is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000659.jpg",
+    "question": "Which time is shown in Dwight's corner above, in the new alarm? Thank you. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000660.jpg",
+    "question": "What is the sodium content of the food that's in this can?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000661.jpg",
+    "question": "What color is my shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000662.jpg",
+    "question": "What is this label saying?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000663.jpg",
+    "question": "What color are these pants?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000664.jpg",
+    "question": "Is this shampoo or conditioner?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000665.jpg",
+    "question": "What is this package?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000666.jpg",
+    "question": "For how long do I cook this in the microwave?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000667.jpg",
+    "question": "Can you tell me what's actually on the monitor here because of these picture?, Thank you",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000668.jpg",
+    "question": "How many keys does the keyboard have?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000669.jpg",
+    "question": "What is in the photograph?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000670.jpg",
+    "question": "What does it show on this computer monitor. Screen or laptop monitor please tell me how to fix it eg moving camera up or moving camera down.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000671.jpg",
+    "question": "Is there a dot on my neck, or a bump? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000672.jpg",
+    "question": "What is the expiration date?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000673.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000674.jpg",
+    "question": "What color and any design?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000675.jpg",
+    "question": "Okay, let's give this a try and tell me if this works by chance.  I've tried a different camera angle using take a picture in landscape mode. If you can see an ID number with a 4",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000676.jpg",
+    "question": "What color is that please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000677.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000678.jpg",
+    "question": "What does this label say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000679.jpg",
+    "question": "What is that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000680.jpg",
+    "question": "What is this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000681.jpg",
+    "question": "What is that label please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000682.jpg",
+    "question": "what tablets are these?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000683.jpg",
+    "question": "What is in this jar?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000684.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000685.jpg",
+    "question": "What is that? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000686.jpg",
+    "question": "Okay, I got the tshirt and a vest. It's laying on a couch, I just want to find out what colors everything is, what the picture might be on..",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000687.jpg",
+    "question": "What number is this needle pointing to?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000688.jpg",
+    "question": "What's this please?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000689.jpg",
+    "question": "What brand is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000690.jpg",
+    "question": "Is this a box of cookies?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000691.jpg",
+    "question": "Is the red knob on the right or the left? Is the red knob on the right or left?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000692.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000693.jpg",
+    "question": "Can you tell me what's this coin?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000694.jpg",
+    "question": "What does this menu say, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000695.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000696.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000697.jpg",
+    "question": "Can you tell me if there are any cooking instructions for this product?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000698.jpg",
+    "question": "what does this bottle say",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000699.jpg",
+    "question": "What color is this sock?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000700.jpg",
+    "question": "Well I...",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000701.jpg",
+    "question": "What is this picture?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000702.jpg",
+    "question": "What is the verification image?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000703.jpg",
+    "question": "What logo is this question mark?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000704.jpg",
+    "question": "What is that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000705.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000706.jpg",
+    "question": "What's on the screen?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000707.jpg",
+    "question": "What is this a picture of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000708.jpg",
+    "question": "What color is this wall?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000709.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000710.jpg",
+    "question": "Color is this.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000711.jpg",
+    "question": "What kind of chocolate bar is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000712.jpg",
+    "question": "Im trying this again.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000713.jpg",
+    "question": "What's the dosing instructions for this medicine?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000714.jpg",
+    "question": "Can you if there's any writing or messages or anything like that on this TV screen? Thanks.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000715.jpg",
+    "question": "What else is in this dinner besides breaded chicken?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000716.jpg",
+    "question": "What is on my shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000717.jpg",
+    "question": "Is this sweater appropriate for business wear?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000718.jpg",
+    "question": "What color is this bag?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000719.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000720.jpg",
+    "question": "Can you tell me what type of sandwich this is? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000721.jpg",
+    "question": "What kind of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000722.jpg",
+    "question": "What is inside this can? Thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000723.jpg",
+    "question": "From left to right, what is the names of these bottles? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000724.jpg",
+    "question": "What's the color of this shirt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000725.jpg",
+    "question": "What is the title of this book? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000726.jpg",
+    "question": "Can you determine what kind of cereal this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000727.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000728.jpg",
+    "question": "What is this picture?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000729.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000730.jpg",
+    "question": "Can you list the order of the cycles that are on this washer? Thanks.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000731.jpg",
+    "question": "What does this say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000732.jpg",
+    "question": "what thing",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000733.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000734.jpg",
+    "question": "Can you tell me what color this t-shirt is, and what it says?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000735.jpg",
+    "question": "What is the expiration date on this can?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000736.jpg",
+    "question": "How to program this microwave.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000737.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000738.jpg",
+    "question": "What did I just take? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000739.jpg",
+    "question": "What type of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000740.jpg",
+    "question": "What color are these socks?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000741.jpg",
+    "question": "What's the name of this snack?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000742.jpg",
+    "question": "What color are these socks?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000743.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000744.jpg",
+    "question": "What is the answer?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000745.jpg",
+    "question": "Are there grey stripes in this shirt?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000746.jpg",
+    "question": "What are the instructions listed on the box?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000747.jpg",
+    "question": "What was in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000748.jpg",
+    "question": "Can you tell me if this meat package says sausage or ground beef? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000749.jpg",
+    "question": "Can you tell me what this picture is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000750.jpg",
+    "question": "What kind of bread is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000751.jpg",
+    "question": "This is a view of my window outside my back garden and just wondered what the weather looked like today? Thank you. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000752.jpg",
+    "question": "Can you tell me if this is an acid fertilizer, or one for roses. Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000753.jpg",
+    "question": "What does my treadmill reading tell me?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000754.jpg",
+    "question": "What is this label say? I'm looking for some ear drops. Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000755.jpg",
+    "question": "What is this place?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000756.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000757.jpg",
+    "question": "What does it say on the label?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000758.jpg",
+    "question": "From left to right, which of these cans are Coca-Colas?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000759.jpg",
+    "question": "What does the hand written label say?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000760.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000761.jpg",
+    "question": "what kind of yogurt is this",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000762.jpg",
+    "question": "What is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000763.jpg",
+    "question": "What is this perfume?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000764.jpg",
+    "question": "What kind of spice is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000765.jpg",
+    "question": "What is this a card of?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000766.jpg",
+    "question": "Can you tell me what this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000767.jpg",
+    "question": "What kind of Pop-tarts are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000768.jpg",
+    "question": "Sit in the bed, please.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000769.jpg",
+    "question": "What kind of soda is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000770.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000771.jpg",
+    "question": "What is in this jar?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000772.jpg",
+    "question": "What is in this image?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000773.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000774.jpg",
+    "question": "What color shoes am I wearing? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000775.jpg",
+    "question": "Is this shampoo or conditioner?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000776.jpg",
+    "question": "What kind of pop is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000777.jpg",
+    "question": "What is this package of?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000778.jpg",
+    "question": "Orange or solitary.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000779.jpg",
+    "question": "Is there a red packet on the table?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000780.jpg",
+    "question": "What is the title of this book?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000781.jpg",
+    "question": "Is this Lawry salt? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000782.jpg",
+    "question": "what color is my shirt",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000783.jpg",
+    "question": "What is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000784.jpg",
+    "question": "Can you tell me what kind of speakers these are?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000785.jpg",
+    "question": "What is the product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000786.jpg",
+    "question": "What product is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000787.jpg",
+    "question": "What color is my pajama top?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000788.jpg",
+    "question": "What is in this jar, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000789.jpg",
+    "question": "What is the name of this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000790.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000791.jpg",
+    "question": "What color is that shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000792.jpg",
+    "question": "What is in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000793.jpg",
+    "question": "What is this recipe?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000794.jpg",
+    "question": "What kind of TV dinner is this, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000795.jpg",
+    "question": "what kind of pop is this? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000796.jpg",
+    "question": "What fluid is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000797.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000798.jpg",
+    "question": "What is this? Comma. What does it say? Question mark.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000799.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000800.jpg",
+    "question": "What does the display say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000801.jpg",
+    "question": "Can you tell me what's in this jar, please? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000802.jpg",
+    "question": "What is in this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000803.jpg",
+    "question": "What does the scale say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000804.jpg",
+    "question": "What kind of product is this? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000805.jpg",
+    "question": "What does this box say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000806.jpg",
+    "question": "What is this? Whats the name of this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000807.jpg",
+    "question": "Excuse me.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000808.jpg",
+    "question": "what is the name of this disc?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000809.jpg",
+    "question": "What is on this envelope?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000810.jpg",
+    "question": "What is it? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000811.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000812.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000813.jpg",
+    "question": "Is this ham?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000814.jpg",
+    "question": "What kind of cereal is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000815.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000816.jpg",
+    "question": "Is someone standing there?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000817.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000818.jpg",
+    "question": "What color is this please? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000819.jpg",
+    "question": "please tell me the temperature setting?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000820.jpg",
+    "question": "What is this picture of?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000821.jpg",
+    "question": "What flavor is this? What flavor is this please? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000822.jpg",
+    "question": "What color is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000823.jpg",
+    "question": "Please identify the candy in this picture",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000824.jpg",
+    "question": "What kind of soup is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000825.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000826.jpg",
+    "question": "what is my blood pressure reading",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000827.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000828.jpg",
+    "question": "What is this tv dinner?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000829.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000830.jpg",
+    "question": "What color is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000831.jpg",
+    "question": "what kind of matters in this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000832.jpg",
+    "question": "What's in this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000833.jpg",
+    "question": "Hello, what's in the bag? Thanks.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000834.jpg",
+    "question": "How much money is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000835.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000836.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000837.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000838.jpg",
+    "question": "The three buttons just below the dial left to right. Thank you. ",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000839.jpg",
+    "question": "What kind of Trail mix are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000840.jpg",
+    "question": "What do you see?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000841.jpg",
+    "question": "What number is the needle pointing to?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000842.jpg",
+    "question": "Thanks for any help you can give. I'm sorry if the picture is out of focus.  Can you tell what this is a bag of? Thanks.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000843.jpg",
+    "question": "Is there any writing on this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000844.jpg",
+    "question": "Is this Cola light?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000845.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000846.jpg",
+    "question": "What kind of chips they are?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000847.jpg",
+    "question": "What are the cooking directions for this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000848.jpg",
+    "question": "What is on this side of the bottle?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000849.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000850.jpg",
+    "question": "What kind of chips are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000851.jpg",
+    "question": "What color is this cup? I hope I got the cup.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000852.jpg",
+    "question": "How many calories in this bottle?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000853.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000854.jpg",
+    "question": "Can you please tell me what flavor this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000855.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000856.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000857.jpg",
+    "question": "What vegetable is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000858.jpg",
+    "question": "what flavor of coffee is this",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000859.jpg",
+    "question": "Can you tell me from left to right, control buttons on this oven.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000860.jpg",
+    "question": "What is in this package of meat?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000861.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000862.jpg",
+    "question": "Can you tell me what's in this box, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000863.jpg",
+    "question": "Which one of these 5 dvds is the sound of music?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000864.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000865.jpg",
+    "question": "What kind of product is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000866.jpg",
+    "question": "When does this expire? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000867.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000868.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000869.jpg",
+    "question": "Am I wearing socks? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000870.jpg",
+    "question": "Can you tell me what this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000871.jpg",
+    "question": "What in this tin? Thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000872.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000873.jpg",
+    "question": "What's on the display?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000874.jpg",
+    "question": "Try to identify the container, please.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000875.jpg",
+    "question": "What flavor of jello is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000876.jpg",
+    "question": "Can you please tell me the thermostat readings?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000877.jpg",
+    "question": "When does this expire?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000878.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000879.jpg",
+    "question": "I'm trying to take a picture of the chair and ottoman to put up online to sell. Is this picture in focus? Can you tell it is a chair and ottoman and what color it is?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000880.jpg",
+    "question": "What is this can of food?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000881.jpg",
+    "question": "What is in this bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000882.jpg",
+    "question": "What is visible on the screen?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000883.jpg",
+    "question": "What is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000884.jpg",
+    "question": "What color and pattern are these shorts? ",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000885.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000886.jpg",
+    "question": "What product is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000887.jpg",
+    "question": "Can you see what country this coffee is from? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000888.jpg",
+    "question": "What type of motif is on this t-shirt please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000889.jpg",
+    "question": "is this my eye-drop bottle?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000890.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000891.jpg",
+    "question": "I just want to know if you can tell me the expiration date on this carton of milk.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000892.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000893.jpg",
+    "question": "what device is this",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000894.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000895.jpg",
+    "question": "Which one are my gray pants?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000896.jpg",
+    "question": "Are you able to tell what flavor this is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000897.jpg",
+    "question": "Is that a one dollar bill, a five dollar bill, a ten dollar bill, or a twenty dollar bill? Which one is it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000898.jpg",
+    "question": "What is the name of this item?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000899.jpg",
+    "question": "What's in the box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000900.jpg",
+    "question": "What color is this dinosaur?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000901.jpg",
+    "question": "What do you see?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000902.jpg",
+    "question": "What color are these shorts?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000903.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000904.jpg",
+    "question": "So how long do I cook this in the microwave?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000905.jpg",
+    "question": "Can you tell me what this is and how to cook it, please?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000906.jpg",
+    "question": "what is it on the picture",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000907.jpg",
+    "question": "What's in this bag?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000908.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000909.jpg",
+    "question": "What kind of soda is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000910.jpg",
+    "question": "How much money is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000911.jpg",
+    "question": "What cream is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000912.jpg",
+    "question": "Can you tell me if this is corn, please? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000913.jpg",
+    "question": "What color is this sweater?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000914.jpg",
+    "question": "Can you tell me what this says or if there are any pictures on it?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000915.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000916.jpg",
+    "question": "What does this box say?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000917.jpg",
+    "question": "What color is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000918.jpg",
+    "question": "What is this bottle in my lap?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000919.jpg",
+    "question": "Please tell me what the display says.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000920.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000921.jpg",
+    "question": "What is this drink?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000922.jpg",
+    "question": "What color shoes am I wearing?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000923.jpg",
+    "question": "What is name of this cat?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000924.jpg",
+    "question": "What is it?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000925.jpg",
+    "question": "What is the main color of my jacket?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000926.jpg",
+    "question": "This is a table.",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000927.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000928.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000929.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000930.jpg",
+    "question": "Which of these, if any, is evaporated milk?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000931.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000932.jpg",
+    "question": "What color is my dog?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000933.jpg",
+    "question": "How much is this currency?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000934.jpg",
+    "question": "How much time is remaining?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000935.jpg",
+    "question": "Can you see what that bottle of pills is?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000936.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000937.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000938.jpg",
+    "question": "What color is this candy that's in my hand?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000939.jpg",
+    "question": "What is in this package?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000940.jpg",
+    "question": "Can you tell me what kind of phone this is and can you also tell me what kind of charger does it take?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000941.jpg",
+    "question": "What is this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000942.jpg",
+    "question": "Is this bathroom clean? Thank you.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000943.jpg",
+    "question": "What's this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000944.jpg",
+    "question": "What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000945.jpg",
+    "question": "what color are these trousers?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000946.jpg",
+    "question": "Is this a Coke or a Dr. Pepper?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000947.jpg",
+    "question": "What type of juice is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000948.jpg",
+    "question": "What about now?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000949.jpg",
+    "question": "Colors are in these flowers on this dress.",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000950.jpg",
+    "question": "Where is the mint?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000951.jpg",
+    "question": "What is the name of the product in the bottle in the picture?",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000952.jpg",
+    "question": "What kind of tea is this, please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000953.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000954.jpg",
+    "question": "what is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000955.jpg",
+    "question": "For how long do I cook this in the microwave?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000956.jpg",
+    "question": "What is in this jar?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000957.jpg",
+    "question": "what is this poster?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000958.jpg",
+    "question": "Which button is the off button?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000959.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000960.jpg",
+    "question": "How about the power of this I see recorder? Thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000961.jpg",
+    "question": "What kind of chips are these?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000962.jpg",
+    "question": "What is the service box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000963.jpg",
+    "question": "What is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000964.jpg",
+    "question": "What is on the screen? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000965.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000966.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000967.jpg",
+    "question": "What's that?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000968.jpg",
+    "question": "What can I clean with this bottle?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000969.jpg",
+    "question": "Is this table lamp on or off?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000970.jpg",
+    "question": "please can somebody tell me the color of this shield. thank you",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00000971.jpg",
+    "question": "What color is this dress? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000972.jpg",
+    "question": "Dark for ironing clothes?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000973.jpg",
+    "question": "what seasoning is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000974.jpg",
+    "question": "What is this item?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000975.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000976.jpg",
+    "question": "What's on the screen?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000977.jpg",
+    "question": "What is this box?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000978.jpg",
+    "question": "This light blue or grey?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000979.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000980.jpg",
+    "question": "What is this? ",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000981.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000982.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000983.jpg",
+    "question": "What vocab words should I put in the blanks?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000984.jpg",
+    "question": "What kind of coffee is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000985.jpg",
+    "question": "Can you please tell me the name of this product?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000986.jpg",
+    "question": "For how long do I cook this in the microwave?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000987.jpg",
+    "question": "What is in this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000988.jpg",
+    "question": "what kind of bill is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000989.jpg",
+    "question": "Can somebody tell me what this is please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000990.jpg",
+    "question": "Are the stripes red?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000991.jpg",
+    "question": "What is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000992.jpg",
+    "question": "What is on this Captcha please?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000993.jpg",
+    "question": "What book is this?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000994.jpg",
+    "question": "What color is this product?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000995.jpg",
+    "question": " What color is this shirt?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000996.jpg",
+    "question": "What is the model number on this fridge?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000997.jpg",
+    "question": "What packet of food is this?",
+    "category": "Medium"
+  },
+  {
+    "image": "VizWiz_test_00000998.jpg",
+    "question": "What is this can?",
+    "category": "Short"
+  },
+  {
+    "image": "VizWiz_test_00000999.jpg",
+    "question": "Can you tell me if this is the acid fertilizer or the one for roses  thank you.",
+    "category": "Long"
+  },
+  {
+    "image": "VizWiz_test_00001000.jpg",
+    "question": "What is the cem, what is the computer screen showing?",
+    "category": "Medium"
+  }
+]
