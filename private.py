@@ -6,15 +6,21 @@ import pyttsx3
 import nest_asyncio
 from openai import OpenAI
 from nemoguardrails import LLMRails, RailsConfig
+from dotenv import load_dotenv
+load_dotenv()
+# Load environment variables   
+NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
+if not NVIDIA_API_KEY:
+    raise ValueError("NVIDIA_API_KEY is not set in the environment variables.")
+
 
 # Initialize Hive AI client
 client = OpenAI(
     base_url="https://api.thehive.ai/api/v3/",  # Hive AI's endpoint
-    api_key="HwDF5vDdbekdQbWsjcrsAXfsZo53N2v7"  # Replace with your API key
+    api_key=os.getenv("HIVE_API_KEY")  # Replace with your API key
 )
 
 # Set up NeMo Guardrails
-NVIDIA_API_KEY = "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"
 nest_asyncio.apply()
 os.environ["NVIDIA_API_KEY"] = NVIDIA_API_KEY
 config = RailsConfig.from_path("./config")
@@ -54,7 +60,7 @@ def nemo(text):
     return completion["content"]
 
 # Load test.json
-test_json_path = "dataset/test_1000_updated.json"
+test_json_path = "dataset/test/test_1000_updated.json"
 test_folder = "dataset/test_1000"  # Folder containing images
 output_file = "results.txt"
 

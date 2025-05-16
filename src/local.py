@@ -65,10 +65,10 @@ def get_completion(prompt, model = "meta-llama/llama-3.2-11b-vision-instruct"):
 
 final_res=get_completion("What's in this image?")
 
-NVIDIA_API_KEY='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'
+NVIDIA_API_KEY=os.getenv("NVIDIA_API_KEY")
 nest_asyncio.apply()
 
-os.environ["NVIDIA_API_KEY"]="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"
+os.environ["NVIDIA_API_KEY"]=NVIDIA_API_KEY
 
 config = RailsConfig.from_path("./config")
 

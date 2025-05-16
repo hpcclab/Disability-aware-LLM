@@ -33,7 +33,7 @@ model_guard = AutoModelForCausalLM.from_pretrained(
 
 local_model_path = snapshot_download(model_id)
 print(f"Model downloaded to: {local_model_path}")
-
+tokenizer = AutoTokenizer.from_pretrained(model_id)
 input='What the person is doing?'
 conversation = [
     {
@@ -83,12 +83,12 @@ else:
     print(final_res)
 
 
-NVIDIA_API_KEY='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'
+NVIDIA_API_KEY=os.getenv("NVIDIA_API_KEY")
 nest_asyncio.apply()
 
-os.environ["NVIDIA_API_KEY"]="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"
+os.environ["NVIDIA_API_KEY"]=NVIDIA_API_KEY
 
-config = RailsConfig.from_path("./config")
+config = RailsConfig.from_path("./config_edge")
 
 rails = LLMRails(config)
 def nemo(text):
