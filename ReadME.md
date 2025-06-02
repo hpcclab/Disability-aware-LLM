@@ -9,7 +9,13 @@ A System that is capable of giving audio outputs to guide the user. There is a m
 - Safer responses to the user. Specifically customised to blind and visually imparied persons.
 - Provide interactive web interface to the demo the workflow.
 
-## Installation
+## Installation & Run
+This project has not been dockerized yet. You should install it on your own. It was implemented with Python 3.8 and has been tested on Ubuntu 22.04. But, the lower version of them would be fine.
+
+1. Install the required Python package.
+```bash
+pip3 install -r requirements.txt
+```
 
 1. **Clone repository**
 ```bash
