@@ -1,5 +1,5 @@
 '''
-This file determines the priority of each query based on a heuristic rule.
+This file determines the urgency of each query based on a heuristic rule.
 '''
 
 import pandas as pd
@@ -13,9 +13,9 @@ from sklearn.metrics import classification_report
 def label_priority(query):
     query = query.lower()
 
-    if any(word in query for word in ["traffic", "safe", "cross", "danger", "person", "medicine", "bottle", "walk"]):
+    if any(word in query for word in ["urgent", "respond quickly", "ASAP", "time-sensitive", "important, "time-critical"]):
         return "high"
-    elif any(word in query for word in ["read", "describe", "text", "captcha", "number", "instructions", "label"]):
+    elif any(word in query for word in ["can you tell me", "could you", "please tell me", "i'd like to know", "what kind of", "what is in", "what does this", "do you see"]):
         return "medium"
     else:
         return "low"
