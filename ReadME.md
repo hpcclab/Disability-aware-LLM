@@ -17,18 +17,6 @@ This project has not been dockerized yet. You should install it on your own. It 
 pip3 install -r requirements.txt
 ```
 
-1. **Clone repository**
-```bash
-git clone https://github.com/hpcclab/Disability-aware-LLM.git
-cd disability-aware-llm
-```
-2. **Run the code**
-Run the code in T4 GPU Hardware Accelerator or Higher GPU versions. Used google collab in this project.
-
-3. **Usage of Nemo Guardrails**
-Use the configuration files that's in the config directory to use nemogurad rails.
-
-
 ## Project Structure
 
 - *Config.yml:* - Configuration of the nemoguradrails.
